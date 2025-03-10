@@ -12,14 +12,14 @@ This is important because neural networks cannot learn well from data generated 
 # Simulation results
 
 Neural network progress:
-![...](https://github.com/ketaslava/neural_networks_training_simulation/blob/main/Figure_1.png?raw=true)
+![...](https://github.com/ketaslava/neural_networks_training_simulation/blob/master/Figure_1.png?raw=true)
 
 Neural network progress progress vs geometric progression:
-![...](https://github.com/ketaslava/neural_networks_training_simulation/blob/main/Figure_2.png?raw=true)
+![...](https://github.com/ketaslava/neural_networks_training_simulation/blob/master/Figure_2.png?raw=true)
 
 Neural network progress and network data volume:
 (orange is total volume, green is human generated data volume)
-![...](https://github.com/ketaslava/neural_networks_training_simulation/blob/main/Figure_3.png?raw=true)
+![...](https://github.com/ketaslava/neural_networks_training_simulation/blob/master/Figure_3.png?raw=true)
 
 All plots:
-![...](https://github.com/ketaslava/neural_networks_training_simulation/blob/main/Figure_4.png?raw=true)
+![...](https://github.com/ketaslava/neural_networks_training_simulation/blob/master/Figure_4.png?raw=true)
